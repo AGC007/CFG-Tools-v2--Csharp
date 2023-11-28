@@ -1,0 +1,98 @@
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\bin\Debug\MetroFramework.Design.dll
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\bin\Debug\MetroFramework.dll
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\bin\Debug\MetroFramework.Fonts.dll
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.Properties.Resources.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.csproj.GenerateResource.Cache
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.ABOUT.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_MAKER.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_V1_LEN.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_RECAPTCHA_V3.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.Form2.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.Form_Home.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1.exe.config
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1.exe
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1.pdb
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS_V1.0.1.exe
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS_V1.0.1.pdb
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.csprojResolveAssemblyReference.cache
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\bin\Debug\MetroFramework.Design.dll
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\bin\Debug\MetroFramework.dll
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\bin\Debug\MetroFramework.Fonts.dll
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.ABOUT.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_RECAPTCHA_V3.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_MAKER.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_V1_LEN.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.Form2.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.Properties.Resources.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.csproj.GenerateResource.Cache
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.exe.config
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.exe
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.pdb
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.csprojResolveAssemblyReference.cache
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.exe
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.pdb
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v1.0.1\CONFIG_TOOLS\bin\Debug\MaterialSkin.dll
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.exe.config
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.exe
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.pdb
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.exe
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.pdb
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\MaterialSkin.dll
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\MetroFramework.Design.dll
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\MetroFramework.dll
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\MetroFramework.Fonts.dll
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.csprojResolveAssemblyReference.cache
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.ABOUT.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_RECAPTCHA_V3.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_MAKER.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_V1_LEN.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.Form2.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.Properties.Resources.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.csproj.GenerateResource.Cache
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.FIND_HIT_SENDER.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.ABOUT_HIT_SENDER.resources
+E:\پروژه\Form\Crack_P\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_H_CAPTCHA.resources
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.exe.config
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.exe
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.pdb
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.exe
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\CONFIG_TOOLS_V1.0.1 AGC007™.pdb
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\MetroFramework.Design.dll
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\MetroFramework.dll
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Debug\MetroFramework.Fonts.dll
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.csprojResolveAssemblyReference.cache
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.ABOUT.resources
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.ABOUT_HIT_SENDER.resources
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_H_CAPTCHA.resources
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_RECAPTCHA_V3.resources
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_MAKER.resources
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_V1_LEN.resources
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.FIND_HIT_SENDER.resources
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.Form2.resources
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.Properties.Resources.resources
+E:\پروژه\VS_Project\Crack\CONFIG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.csproj.GenerateResource.Cache
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Debug\MetroFramework.Design.dll
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Debug\MetroFramework.dll
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Debug\MetroFramework.Fonts.dll
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.ABOUT_HIT_SENDER.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_RECAPTCHA_V3.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_MAKER.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.FIND_HIT_SENDER.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.Form2.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.csproj.GenerateResource.cache
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.csproj.CoreCompileInputs.cache
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_SETTINGS_EDIT.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.CONFIG_LEN.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.Bypass_H_CAPTCHA.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Debug\[~OB CFG`TOOLS[V2] By AGC007™~].exe.config
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Debug\[~OB CFG`TOOLS[V2] By AGC007™~].exe
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Debug\[~OB CFG`TOOLS[V2] By AGC007™~].pdb
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CFG_TOOLS.Properties.Resources.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\[~OB CFG`TOOLS[V2] By AGC007™~].exe
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\[~OB CFG`TOOLS[V2] By AGC007™~].pdb
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Debug\[~OB CFG`TOOLS[V2] By AGC007™~].exe.manifest
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Debug\[~OB CFG`TOOLS[V2] By AGC007™~].application
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\[~OB CFG`TOOLS[V2] By AGC007™~].TrustInfo.xml
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\[~OB CFG`TOOLS[V2] By AGC007™~].exe.manifest
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\[~OB CFG`TOOLS[V2] By AGC007™~].application
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Debug\CONFIG_TOOLS.csproj.CopyComplete

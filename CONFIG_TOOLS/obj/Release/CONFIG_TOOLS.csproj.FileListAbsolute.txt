@@ -1,0 +1,50 @@
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Release\[~OB CFG`TOOLS[V2] By AGC007™~].exe.config
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Release\[~OB CFG`TOOLS[V2] By AGC007™~].exe.manifest
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Release\[~OB CFG`TOOLS[V2] By AGC007™~].application
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Release\[~OB CFG`TOOLS[V2] By AGC007™~].exe
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Release\[~OB CFG`TOOLS[V2] By AGC007™~].pdb
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Release\MetroFramework.Design.dll
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Release\MetroFramework.dll
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\bin\Release\MetroFramework.Fonts.dll
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.ABOUT_HIT_SENDER.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.Bypass_H_CAPTCHA.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.CONFIG_RECAPTCHA_V3.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.Config_SETTINGS_EDIT.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.CONFIG_MAKER.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.Config_LEN.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.FIND_HIT_SENDER.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.Form2.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CFG_TOOLS.Properties.Resources.resources
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.csproj.GenerateResource.cache
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.csproj.CoreCompileInputs.cache
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\[~OB CFG`TOOLS[V2] By AGC007™~].TrustInfo.xml
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\[~OB CFG`TOOLS[V2] By AGC007™~].exe.manifest
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\[~OB CFG`TOOLS[V2] By AGC007™~].application
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\[~OB CFG`TOOLS[V2] By AGC007™~].exe
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\[~OB CFG`TOOLS[V2] By AGC007™~].pdb
+E:\پروژه\MY_Project\Crack\CONFIG_TOOLS_v1.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.csproj.CopyComplete
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Release\[~OB CFG`TOOLS[v2] By AGC007™~].exe.config
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Release\[~OB CFG`TOOLS[v2] By AGC007™~].exe.manifest
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Release\[~OB CFG`TOOLS[v2] By AGC007™~].application
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Release\[~OB CFG`TOOLS[v2] By AGC007™~].exe
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Release\[~OB CFG`TOOLS[v2] By AGC007™~].pdb
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Release\MetroFramework.Design.dll
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Release\MetroFramework.dll
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\bin\Release\MetroFramework.Fonts.dll
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.ABOUT_HIT_SENDER.resources
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.Bypass_H_CAPTCHA.resources
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.CONFIG_RECAPTCHA_V3.resources
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.Config_SETTINGS_EDIT.resources
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.CONFIG_MAKER.resources
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.Config_LEN.resources
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.FIND_HIT_SENDER.resources
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.Form2.resources
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CFG_TOOLS.Properties.Resources.resources
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.csproj.GenerateResource.cache
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.csproj.CoreCompileInputs.cache
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\[~OB CFG`TOOLS[v2] By AGC007™~].TrustInfo.xml
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\[~OB CFG`TOOLS[v2] By AGC007™~].exe.manifest
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\[~OB CFG`TOOLS[v2] By AGC007™~].application
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\[~OB CFG`TOOLS[v2] By AGC007™~].exe
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\[~OB CFG`TOOLS[v2] By AGC007™~].pdb
+E:\پروژه\MY_Project\Crack\CFG_TOOLS_v2.0.0\CONFIG_TOOLS\obj\Release\CONFIG_TOOLS.csproj.CopyComplete
